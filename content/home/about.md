@@ -32,6 +32,14 @@ weight = 5
   institution = "Boğaziçi University"
   year = 2013
  
+ 
+# List your colloborations
+[collaborations]
+  collaborations = [
+    "Eurasia Institue of Earth Sciences",
+    "University of Toronto"
+  ]
+ 
 +++
 
 # Biography
