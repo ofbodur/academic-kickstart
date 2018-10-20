@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Lithosphere-asthenosphere coupling",
+    "Lithosphere - Asthenosphere coupling",
     "Mantle convection",
     "Numerical modelling"
+    "Plate subduction"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -22,7 +23,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "M.Sc. in Geodynamics"
+  course = "M.Sc. in Geophysics"
   institution = "Eurasia Institute of Earth Sciences & Kandilli Observatory and Earthquake Research Institue"
   year = 2016
 
