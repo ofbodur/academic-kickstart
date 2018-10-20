@@ -48,4 +48,4 @@ weight = 5
 
 # Biography
 
-I am a Physicist, and recently a geoscientist expertising on numerical modelling. I do analytical and numerical modelling to understand how the Earth-system works.
+I am a Physicist, and recently a geoscientist expertising on numerical modelling. I create analytical and numerical models to understand how tectonic plates interact with the underlying mantle (asthenosphere), and how Earth's crust is recycled at subduction zones. I investigate the surface expression of mantle dynamics by using open-source code Underworld.
