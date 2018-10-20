@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Geodynamics"
+  course = "Ph.D. in Geodynamics"
   institution = "The University of Sydney"
-  year = 2016 (continuing)
+  year = 2019
 
 [[education.courses]]
   course = "M.Sc. in Geodynamics"
