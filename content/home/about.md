@@ -48,4 +48,4 @@ weight = 5
 
 # Biography
 
-I am a Physicist, and recently a geoscientist expertising on numerical modelling. I use numerical modelling to understand how the Earth-system works.
+I am a Physicist, and recently a geoscientist expertising on numerical modelling. I do analytical and numerical modelling to understand how the Earth-system works.
