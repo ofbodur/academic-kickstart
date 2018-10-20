@@ -12,6 +12,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "publicationFig_JGR2018.jpg"
+image = "publicationFig_JGR2018"
 caption = "Mantle lithosphere rheology, vertical tectonics and exhumation of U(HP) rocks - JGR Solid Earth, 2018"
 +++
