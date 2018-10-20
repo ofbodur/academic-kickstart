@@ -2,10 +2,10 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-10-21T00:00:00
 
 title = "Projects"
-subtitle = ""
+subtitle = "Active research projects"
 
 # Order that this section will appear in.
 weight = 50
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
