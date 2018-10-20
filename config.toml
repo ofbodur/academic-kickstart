@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Ömer Faruk Bodur"
-  role = "Ph.D. candidate in Geodynamics "
+  role = "Ph.D. candidate in Geosciences "
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,8 +64,8 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "omer.bodur@sydney.edu.au"
-  address = "EarthByte Group, School of Geosciences, The University of Sydney, 2006, NSW, Australia"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "Rm 412, Madsen Building F09, EarthByte Group, School of Geosciences, The University of Sydney, 2006, NSW, Australia"
+  office_hours = "Wednesday 10:00 to 13:00 or email for appointment"
   phone = "+61 2 9036 6545"
   skype = "omerfaruk1919"
   telegram = ""
@@ -264,9 +264,26 @@ enableGitInfo = false
     
   
   [[params.social]]
-    icon = "ResearchGate"
-    icon_pack = "ai"
-    link = "https://scholar.google.com.au/citations?user=j3EN9wcAAAAJ&hl=en"
+    icon = "researchgate"
+    icon_pack = "fab"
+    link = "https://www.researchgate.net/profile/Oemer_Bodur"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "https://github.com/ofbodur"
+    
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://www.facebook.com/omerfb"
+    
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/omerbodursyd/?hl=en"
+  
+ 
 
   # [[params.social]]
 #     icon = "github"
