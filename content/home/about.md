@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Lithosphere,Asthenosphere coupling",
+    "Lithosphere-Asthenosphere coupling",
     "Mantle convection",
     "Numerical modelling",
     "Plate subduction",
