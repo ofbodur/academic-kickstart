@@ -13,7 +13,9 @@ weight = 5
     "Lithosphere,Asthenosphere coupling",
     "Mantle convection",
     "Numerical modelling",
-    "Plate subduction"
+    "Plate subduction",
+    "Basin Modelling",
+    "Dynamic Topography"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -46,4 +48,4 @@ weight = 5
 
 # Biography
 
-I am a Physicist, and recently a geoscientist expertising on numerical modelling. I use numerical modelling framework to understand how the Earth-system works.
+I am a Physicist, and recently a geoscientist expertising on numerical modelling. I use numerical modelling to understand how the Earth-system works.
