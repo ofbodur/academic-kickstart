@@ -12,7 +12,7 @@ date = 2018-01-15T00:00:00
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "BGH_logo_from_website.png"
-caption = ""
+caption = "yok"
 
 +++
 
