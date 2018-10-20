@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Lithosphere-asthenosphere coupling",
+    "Mantle convection",
+    "Numerical modelling"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+<!-- [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
-  year = 2012
+  year = 2012 -->
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Sc. in Geodynamics"
+  institution = "Eurasia Institute of Earth Sciences & Kandilli Observatory and Earthquake Research Institue"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. in Physics"
+  institution = "Boğaziçi University"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Physicist, and recently a geoscientist expertising on numerical modelling. I use numerical modelling framework to understand how the Earth-system works.
