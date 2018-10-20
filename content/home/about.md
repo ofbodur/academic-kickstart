@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Geodynamics"
   institution = "The University of Sydney"
-  year = 2016
+  year = 2016 (continuing)
 
 [[education.courses]]
   course = "M.Sc. in Geodynamics"
