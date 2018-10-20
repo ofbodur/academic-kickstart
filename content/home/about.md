@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Lithosphere - Asthenosphere coupling",
+    "Lithosphere,Asthenosphere coupling",
     "Mantle convection",
-    "Numerical modelling"
+    "Numerical modelling",
     "Plate subduction"
   ]
 
@@ -32,13 +32,15 @@ weight = 5
   institution = "Boğaziçi University"
   year = 2013
  
- 
-# List your colloborations
-[collaborations]
-  collaborations = [
-    "Eurasia Institue of Earth Sciences",
-    "University of Toronto"
+# List your colloboration.
+[colloborations]
+  colloborations = [
+    "Oguz Gogus",
+    "Russell Pysklywec",
+    "Aral Okay",
+    "Erkan Gun"
   ]
+ 
  
 +++
 
