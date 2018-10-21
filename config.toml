@@ -378,3 +378,16 @@ enableGitInfo = false
     name = "Wo"
     url = "#about"
     weight = 1
+
+
+[languages.zh]
+  languageCode = "Türkçe"
+  title = "Chinese website title..."
+  [languages.zh.params]
+    name = "Your name in Chinese..."
+    role = "Your role in Chinese..."
+  [[languages.zh.menu.main]]
+    name = "Ömer"
+    url = "#about"
+    weight = 1
+
