@@ -30,7 +30,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
@@ -273,10 +273,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/ofbodur"
     
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://www.facebook.com/omerfb"
+  #   [[params.social]]
+  #     icon = "facebook"
+  #     icon_pack = "fab"
+  #     link = "https://www.facebook.com/omerfb"
     
   [[params.social]]
     icon = "instagram"
