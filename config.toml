@@ -90,11 +90,11 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "-33.888597"
+  longitude = "151.189401"
+  zoom = 16
 
   # SITE SETUP
 
@@ -106,7 +106,7 @@ enableGitInfo = false
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   #font = "default"
-  font = "classic"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = "The Physics of the Earth's crust and mantle"
@@ -128,7 +128,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -368,13 +368,13 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "Chinese website title..."
+  [languages.zh.params]
+    name = "Your name in Chinese..."
+    role = "Your role in Chinese..."
+  [[languages.zh.menu.main]]
+    name = "Wo"
+    url = "#about"
+    weight = 1
