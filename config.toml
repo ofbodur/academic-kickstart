@@ -380,13 +380,13 @@ enableGitInfo = false
     weight = 1
 
 
-[languages.zh]
-  languageCode = "Türkçe"
-  title = "Chinese website title..."
-  [languages.zh.params]
+[languages.tr]
+  languageCode = "tr"
+  title = "Fıstıkçı şahap"
+  [languages.tr.params]
     name = "Your name in Chinese..."
     role = "Your role in Chinese..."
-  [[languages.zh.menu.main]]
+  [[languages.tr.menu.main]]
     name = "Ömer"
     url = "#about"
     weight = 1
