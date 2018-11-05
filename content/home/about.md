@@ -49,5 +49,5 @@ weight = 5
 
 # Biography
 
-I am a Physicist, and recently a geoscientist expertising on numerical modelling. I create analytical and numerical models to understand how tectonic plates interact with the underlying mantle (asthenosphere), and how Earth's crust is recycled at subduction zones. I investigate the surface expression of mantle dynamics by using open-source code [Underworld](http://www.underworldcode.org/).
+I am a Physicist, and recently a Geoscientist expertising on numerical modelling of Earth's crust and mantle. I like to address the basic questions in Geodynamics that is governed by Newtonian Physics. I wish I could go down to quantum scale! As a first attempt, I do analytical calculations from the simplest case, then at some point, I use numerical codes to solve quite complex interactions. I basically try to understand how tectonic plates interact with the underlying mantle (asthenosphere), and how Earth's crust is recycled at subduction zones. I investigate the surface expression of mantle dynamics by using open-source code [Underworld](http://www.underworldcode.org/).
 
