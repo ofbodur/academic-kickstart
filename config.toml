@@ -112,8 +112,8 @@ enableGitInfo = false
   description = "The Physics of the Earth's crust and mantle"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "omerfarukbodur"
-
+  sharing_image = "Omer_Madsen"
+  #Omer_Madsen
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   #twitter = ""
 
