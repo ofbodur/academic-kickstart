@@ -1,7 +1,7 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
-widget = "posts"
+widget = "Posts (Popular Scicence, Art, Literature)"
 active = true
 date = 2016-04-20T00:00:00
 
