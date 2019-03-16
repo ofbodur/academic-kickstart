@@ -2,18 +2,12 @@
 title = "Siyah ve Beyaz"
 date = 2019-03-16T20:29:00
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-# Optional featured image (relative to `static/img/` folder).
+
 [header]
 image = ""
-caption = ""
+caption = "dd"
+
 +++
-
-
-
 Her yeni resmin elime ulaştığında 
 Çaresiz değiştiriyorum en sevdiğim rengi
 En son siyah kurdelelerin dokundu
@@ -50,3 +44,4 @@ Aşağıdan başını göğsüme yaslandıracak bir kuvvet
 
 Ömer F. Bodur
 
+### Ömer F. Bodur
