@@ -1,11 +1,11 @@
 +++
 title = "Siyah ve Beyaz"
-date = 2019-03-16T20:29:00
+date = 2019-03-16T00:00:00
 
 
 [header]
 image = "https://fredodonnellphotography.files.wordpress.com/2012/04/pc271848-white-lily.jpg"
-caption = "dd"
+caption = "Bir eksenden, öteki bir göz altı benine.."
 
 +++
 
