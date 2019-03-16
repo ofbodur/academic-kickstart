@@ -34,7 +34,7 @@ Geçerken çok kültürlü bir kargaşaya<br/>
 Öksürüğümü geçiremiyor<br/>
 Kabuk ve içindeki vitamin aldığım portakalın <br/>
 Henüz sen var ve yok arasındayken<br/>
-Bilim yollu göndermeler yapıyorum<br/>
+Bilim yollu göndermeler yapıyorums<br/>
 Bu derin kökenli yüzey kabarıklığına<br/>
 
 Ve hazırlanıyor aldığım güller bu baharda açmaya<br/>
