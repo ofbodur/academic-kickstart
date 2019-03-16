@@ -13,10 +13,11 @@ weight = 5
   interests = [
     "Lithosphere-Asthenosphere coupling",
     "Mantle convection",
+	"Dynamic Topography",
     "Numerical modelling",
     "Plate subduction",
     "Basin Modelling",
-    "Dynamic Topography"
+    
   ]
 
 # List your qualifications (such as academic degrees).
