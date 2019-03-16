@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Siyah ve Beyaz"
 date = 2019-03-16T20:29:00
 
 
