@@ -8,6 +8,7 @@ image = ""
 caption = "dd"
 
 +++
+
 Her yeni resmin elime ulaştığında 
 Çaresiz değiştiriyorum en sevdiğim rengi
 En son siyah kurdelelerin dokundu
