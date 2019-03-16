@@ -316,8 +316,8 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Poems (Turkish)"
+  url = "#poems"
   weight = 3
 
 [[menu.main]]

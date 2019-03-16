@@ -1,48 +1,47 @@
 +++
-title = "Siyah_ve_Beyaz"
+title = ""
 date = 2019-03-16T20:29:00
 
 
 [header]
-image = ""
+image = "https://fredodonnellphotography.files.wordpress.com/2012/04/pc271848-white-lily.jpg"
 caption = "dd"
 
 +++
 
-Her yeni resmin elime ulaştığında 
-Çaresiz değiştiriyorum en sevdiğim rengi
-En son siyah kurdelelerin dokundu
-Ve beyaz zambaklar arkasında sen
+### Siyah ve Beyaz
+Her yeni resmin elime ulaştığında <br/>
+Çaresiz değiştiriyorum en sevdiğim rengi<br/>
+En son siyah kurdelelerin dokundu<br/>
+Ve beyaz zambaklar arkasında sen<br/>
 
-Burada yoksun ya şu an
-Ayaklarım bastırılan bir isyanın manifestosu gibi
-Ne yana gitsem Güney
-Sonra okyanusu soluna alan bir eda
+Burada yoksun ya şu an<br/>
+Ayaklarım bastırılan bir isyanın manifestosu gibi<br/>
+Ne yana gitsem Güney<br/>
+Sonra okyanusu soluna alan bir eda<br/>
 
-Dolap içi aynamda saklı bu sızının her türde frekansı
-Sen aklımdayken bakamıyorum öyle
-Jilet gibi kayarım diye korkuyorum
-Bir eksenden, öteki bir göz altı benine
+Dolap içi aynamda saklı bu sızının her türde frekansı<br/>
+Sen aklımdayken bakamıyorum öyle<br/>
+Jilet gibi kayarım diye korkuyorum<br/>
+Bir eksenden, öteki bir göz altı benine<br/>
 
-Prenses gibiydin, Rapunzel’in belki Asyalı çok üst bir modeli
-Henüz bu kadar yükselmedi hiçbir dağ
-Bal gibi damlayabilen uzun bir kıtada
-Daha önceden aşık olunan dümdüz havzalarından 
-Geçerken çok kültürlü bir kargaşaya
+Prenses gibiydin, Rapunzel’in belki Asyalı çok üst bir modeli<br/>
+Henüz bu kadar yükselmedi hiçbir dağ<br/>
+Bal gibi damlayabilen uzun bir kıtada<br/>
+Daha önceden aşık olunan dümdüz havzalarından <br/>
+Geçerken çok kültürlü bir kargaşaya<br/>
  
-Öksürüğümü geçiremiyor,
-Kabuk ve içindeki vitamin aldığım portakalın 
-Henüz sen var ve yok arasındayken
-Bilim yollu göndermeler yapıyorum
-Bu derin kökenli yüzey kabarıklığına
+Öksürüğümü geçiremiyor<br/>
+Kabuk ve içindeki vitamin aldığım portakalın <br/>
+Henüz sen var ve yok arasındayken<br/>
+Bilim yollu göndermeler yapıyorum<br/>
+Bu derin kökenli yüzey kabarıklığına<br/>
 
-Ve hazırlanıyor aldığım güller bu baharda açmaya
-Birisi pembe, diğeri ötekinden daha aşk renginde
-Kışa denk gelen
-Alt-üst olmuş bir iklimde
-Aşağıdan başını göğsüme yaslandıracak bir kuvvet
-Çıkıp bizi buluncaya dek.
-
-Ömer F. Bodur
+Ve hazırlanıyor aldığım güller bu baharda açmaya<br/>
+Birisi pembe, diğeri ötekinden daha aşk renginde<br/>
+Kışa denk gelen<br/>
+Alt-üst olmuş bir iklimde<br/>
+Aşağıdan başını göğsüme yaslandıracak bir kuvvet<br/>
+Çıkıp bizi buluncaya dek.<br/>
 
 ### Ömer F. Bodur
