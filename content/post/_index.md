@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Posts (Popular Science, Literature)"
 date = 2017-01-01T00:00:00
 
 # List format.
