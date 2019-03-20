@@ -8,6 +8,8 @@ image = "Yazi1"
 caption = "Sen Çarptın Ya Ben Pek Bir Canlandım!"
 
 +++
-
-[](Yazi2)
+<img src="Yazi2"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+	 
 ### Ömer F. Bodur
