@@ -9,5 +9,5 @@ caption = "Sen Çarptın Ya Ben Pek Bir Canlandım!"
 
 +++
 
-
+[](Yazi2)
 ### Ömer F. Bodur
