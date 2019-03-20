@@ -4,11 +4,7 @@ date = 2018-10-21T00:00:00
 
 
 [header]
-image = "Yazi1"
-caption = "Sen Çarptın Ya Ben Pek Bir Canlandım!"
+image = "Yazi"
+caption = "Bir eksenden, öteki bir göz altı benine.."
 
 +++
-
-	 
-### Ömer F. Bodur
-
