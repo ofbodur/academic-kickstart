@@ -9,7 +9,7 @@ caption = "credit:https://www.mfah.org/calendar/butterflys-dream"
 
 +++
 
-### Siyah ve Beyaz
+### Duck's Beak
 I feel that some sickness will find one of us <br/>
 and will bring anything we left behind back to our eyes <br/>
 I will be talking too much again about us, <br/>
