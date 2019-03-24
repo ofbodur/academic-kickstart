@@ -14,11 +14,11 @@ I feel that some sickness will find one of us <br/>
 and will bring anything we left behind back to our eyes <br/>
 I will be talking too much again about us, <br/>
 which will fill all the gaps between, <br/>
-Like I clap my hands with a smile,
-Or you pout your lips,
-On which we can hang our coats.
-We will hug each other so tightly,
-As tight as a closed duck's beak,
-Until no single air is left
-between the past and our dreams.
+Like I clap my hands with a smile,<br/>
+Or you pout your lips,<br/>
+On which we can hang our coats.<br/>
+We will hug each other so tightly,<br/>
+As tight as a closed duck's beak,<br/>
+Until no single air is left<br/>
+between the past and our dreams.<br/>
 ### Ömer F. Bodur
