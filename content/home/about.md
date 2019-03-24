@@ -50,6 +50,8 @@ weight = 5
 
 # AutoBiography
 
-I don't like describing myself... Any word that i use here will make you biased. (Even that)
+See below :)
+Inline-style: 
+![alt text](Fred-Dog.jpg "credit:https://www.dailymail.co.uk/news/article-5755683/10-year-old-Labrador-Fred-unlikely-adoptive-father-nine-cute-ducklings.html?ito=social-facebook")
 
 
