@@ -48,8 +48,8 @@ weight = 5
  
 +++
 
-# Biography
+# AutoBiography
 
-I don't like describing myself... Any word that i use here will make you biased.
+I don't like describing myself... Any word that i use here will make you biased. (Even that)
 
 
