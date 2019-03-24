@@ -52,6 +52,6 @@ weight = 5
 
 See below :)
 Inline-style: 
-![alt text](https://www.google.com/search?q=yavru+ordek&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIoIDk9pvhAhXMV30KHUBcDGIQ_AUIDigB&biw=2560&bih=1233#imgrc=h5JhCPbMkI-B2M: "credit:https://www.dailymail.co.uk/news/article-5755683/10-year-old-Labrador-Fred-unlikely-adoptive-father-nine-cute-ducklings.html?ito=social-facebook")
+![alt text](./static/img/Fred-Dog.jpg "credit:https://www.dailymail.co.uk/news/article-5755683/10-year-old-Labrador-Fred-unlikely-adoptive-father-nine-cute-ducklings.html?ito=social-facebook")
 
 
