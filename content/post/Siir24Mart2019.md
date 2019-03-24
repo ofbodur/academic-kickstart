@@ -11,7 +11,7 @@ caption = "credit:https://www.mfah.org/calendar/butterflys-dream"
 
 ### Siyah ve Beyaz
 I feel that some sickness will find one of us <br/>
-,and will bring anything we left behind back to our eyes <br/>
+and will bring anything we left behind back to our eyes <br/>
 I will be talking too much again on life's struggles <br/>
 which will cement all the wholes between us, <br/>
 Until no single air left between your eyes and my lips..
