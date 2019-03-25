@@ -4,8 +4,8 @@ date = 2018-10-21T00:00:00
 
 
 [header]
-image = "https://gfycat.com/alivemediocrefrog"
-caption = "credit:https://gfycat.com/alivemediocrefrog"
+image = "ahlat.jpg"
+caption = "credit:NuriBilgeCeylan"
 
 +++
 
