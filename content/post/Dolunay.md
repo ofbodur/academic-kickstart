@@ -9,12 +9,20 @@ caption = "credit:NuriBilgeCeylan"
 
 +++
 
-### Ol
+### Kapımı kapadığım anda
 Yokluguma uyan istedim bugün <br/>
 Yakını uzak eden bir edayla<br/>
-Nasılsın'ların esirgenebildiği bir günde yaşıyor olmanı istedim<br/>
-Şimdi burada sen yoksun ya <br/>
-Gel ben ol istedim bir demlik<br/>
+Nasılsın'ların esirgenebildiği bir günde yaşamayı tat istedim<br/>
+Kara dokunmak gibidir <br/>
+Önce soğuk, sonra ısıtan bir yalnızlığa<br/>
+Adım at istedim<br/>
+<br/>
+Saçların......<br/>
+ve<br/>
+Dalganan umutlarım..<br/>
+Sanırım kalbim dayanmayacak<br/>
+Seni hem çok özleyip<br/>
+hem de unutmadan hatırlamamaya...<br/>
 
-Sona 
+
 ### Ömer F. Bodur
