@@ -27,9 +27,9 @@ Ne de gözlerine saatlerce şiir yazabiliyor olmamı...<br/>
 Sen, <br/>
 En iyisi bir fırtınada bıraktığın gibi,<br/>
 Sen,<br/>
-sanki hiç gözlerimde kaybolmamış gibi,<br/>
+Sanki hiç gözlerimde kaybolmamışsın gibi,<br/>
 Unutumadan,<br/>
-Hatırlamadan değil belki,<br/>
+Hatırlamadan değil belki ama,<br/>
 Hatırlayarak unut beni... <br/>
 
 ### Ömer F. Bodur
