@@ -8,7 +8,5 @@ image = "Herkese_Bilim_Teknoloji_Dergisi_Sayı154_Dunya_Ay_Omer.jpg"
 caption = "Sayfa 1"
 
 
-
-
 +++
 ![Sayfa 2](/img/Herkese_Bilim_Teknoloji_Dergisi_Sayı154_Dunya_Ay_Omer_P2.jpg "Sayfa 2")
