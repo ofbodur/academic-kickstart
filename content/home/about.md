@@ -56,7 +56,7 @@ I am a Physicist currently based in the largest island and smallest continent, w
 
 My expertise is mainly Geodynamics and I am currently busy with finishing my PhD in EarthByte Group at The University of Sydney. <br/>
 
-In 2020, I will be moving to Wollongong as a post-doctoral research associate at The University of Wollongong. <br/>  
+In 2020, I will be moving to Wollongong as a post-doctoral research associate at The University of Wollongong.  <br/>  
 
 I am very interested in Australian life, culture, environment and the history of such a modern nation with high cultural diversity. <br/>
 
