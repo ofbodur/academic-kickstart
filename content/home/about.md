@@ -58,7 +58,7 @@ My expertise is mainly Geodynamics and I am currently busy with finishing my PhD
 
 In 2020, I will be moving to Wollongong as a post-doctoral research associate at The University of Wollongong. <br/>  
 
-I am also very interested in Australian life, culture, environment and the history of formation of such a modern and very diverse nation. <br/>
+I am very interested in Australian life, culture, environment and the history of such a modern and very diverse nation. <br/>
 
 See below for my research, articles, posts and many others :)
 
