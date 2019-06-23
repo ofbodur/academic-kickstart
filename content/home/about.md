@@ -52,7 +52,11 @@ weight = 5
 
 Welcome to my website!
 
-I am a Physicist currently based in the largest island and smallest continent of the planet Earth, Australia. My expertise is mainly Geodynamics and I am currently busy with finishing my PhD in EarthByte Group at The University of Sydney. I will be moving to Wollongong as a post-doctoral research associate at The University of Wollongong.  
+I am a Physicist currently based in the largest island and smallest continent of the planet Earth, Australia. My expertise is mainly Geodynamics and I am currently busy with finishing my PhD in EarthByte Group at The University of Sydney. <br/>
 
-I am also very interested in Australian life, culture, environment and the history of formation of such a modern and very diverse nation. 
+In 2020, I will be moving to Wollongong as a post-doctoral research associate at The University of Wollongong. <br/>  
+
+I am also very interested in Australian life, culture, environment and the history of formation of such a modern and very diverse nation. <br/>
+
+See below for my research, articles, posts and many others :)
 
