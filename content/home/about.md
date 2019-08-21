@@ -54,8 +54,6 @@ I am a Physicist and Geodynamicist based in Sydney, Australia. <br/>
 
 I am currently busy with finishing my PhD in [EarthByte][EarthByteWebPage] Group at The University of Sydney. <br/>
 
-In 2020, I will be moving to Wollongong to work as a post-doctoral research associate at The University of Wollongong.  <br/>  
-
 See below for my research and other sharings.
 
 [EarthByteWebPage]:http://www.earthbyte.org
