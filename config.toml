@@ -369,26 +369,26 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-  languageCode = "zh-Hans"
-  title = "边界条件"
-  [languages.zh.params]
-    name = "Ömer Faruk Bodur"
-    role = "博士学位"
-  [[languages.zh.menu.main]]
-    name = "Ömer"
-    url = "#about"
-    weight = 1
+#[languages.zh]
+#  languageCode = "zh-Hans"
+#  title = "边界条件"
+#  [languages.zh.params]
+#    name = "Ömer Faruk Bodur"
+#    role = "博士学位"
+#  [[languages.zh.menu.main]]
+#    name = "Ömer"
+#    url = "#about"
+#    weight = 1
 
 
-[languages.tr]
-  languageCode = "tr"
-  title = "Sınır Koşulları"
-  [languages.tr.params]
-    name = "Ömer Faruk Bodur"
-    role = "Doktora adayı - Yer bilimleri"
-  [[languages.tr.menu.main]]
-    name = "Ömer"
-    url = "#about"
-    weight = 1
+#[languages.tr]
+#  languageCode = "tr"
+#  title = "Sınır Koşulları"
+#  [languages.tr.params]
+#    name = "Ömer Faruk Bodur"
+#    role = "Doktora adayı - Yer bilimleri"
+#  [[languages.tr.menu.main]]
+#    name = "Ömer"
+#    url = "#about"
+#    weight = 1
 
