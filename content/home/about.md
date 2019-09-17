@@ -50,10 +50,7 @@ weight = 5
 
 ## **Welcome!**
 
-I am a Physicist and Geodynamicist based in Sydney, Australia. <br/>
+Pyhsicist, currently busy with finishing his Ph.D. in Geosciences at [EarthByte][EarthByteWebPage] Group of The University of Sydney. <br/>
 
-I am currently busy with finishing my PhD in [EarthByte][EarthByteWebPage] Group at The University of Sydney. <br/>
-
-See below for my research and other sharings.
 
 [EarthByteWebPage]:http://www.earthbyte.org
