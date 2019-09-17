@@ -9,7 +9,7 @@
 baseurl = "https://www.omerfarukbodur.info/"
 
 # Title of your site
-title = "The Boundary Conditions"
+title = "Omer Faruk Bodur Website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -61,8 +61,8 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #vatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # avatar = "Omer_MadsenV1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  avatar = "Omer_trende.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-
+  # avatar = "Omer_trende.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar= "goldenhorninwinter.jpg"	
   # Details for the Contact Widget
   email = "omer.bodur@sydney.edu.au"
   address = "Rm 412, Madsen Building F09, EarthByte Group, School of Geosciences, The University of Sydney, 2006, NSW, Australia"
