@@ -48,10 +48,9 @@ weight = 5
  
 +++
 
-# AutoBiography
+## **Welcome!**
 
-See below :)
-Inline-style: 
-![alt text](./static/img/Fred-Dog.jpg "credit:https://www.dailymail.co.uk/news/article-5755683/10-year-old-Labrador-Fred-unlikely-adoptive-father-nine-cute-ducklings.html?ito=social-facebook")
+Pyhsicist, currently busy with finishing his Ph.D. in Geosciences at [EarthByte][EarthByteWebPage] Group of The University of Sydney. <br/>
 
 
+[EarthByteWebPage]:http://www.earthbyte.org

@@ -1,7 +1,7 @@
 +++
 # Hero Carousel widget.
 widget = "hero_carousel"
-active = true
+active = false
 date = 2017-10-15T00:00:00
 
 # Order that this section will appear in.
@@ -13,13 +13,13 @@ interval = false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "300px"
+height = "200px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "你好!"
-  content = "Hazır bu bahar akılsız bir yeşermenin şahane hasadına.. - Yılmaz Erdoğan"
+  title = ""
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
