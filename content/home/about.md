@@ -20,6 +20,7 @@ weight = 5
     
   ]
 
+
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. (cont.) in Geosciences"
@@ -50,7 +51,7 @@ weight = 5
 
 ## **Welcome!**
 
-Pyhsicist, currently busy with finishing his Ph.D. in Geosciences at [EarthByte][EarthByteWebPage] Group of The University of Sydney. <br/>
+Pyhsicist, currently busy with finishing his Ph.D. in Geosciences at [EarthByte][EarthByteWebPage] Group, School of Geosciences, The University of Sydney. <br/>
 
 
 [EarthByteWebPage]:http://www.earthbyte.org
