@@ -11,13 +11,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Lithosphere-Asthenosphere coupling",
-    "Mantle convection",
-	"Dynamic Topography",
-    "Numerical modelling",
-    "Plate subduction",
-    "Basin Modelling",
-    
+    "Geodynamic Modelling of",
+    "-Mantle convection",
+	"-Plate Subduction",
+    "Classical and Modern Physics"
   ]
 
 
