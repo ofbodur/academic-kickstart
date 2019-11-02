@@ -11,9 +11,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Geodynamic Modelling of",
+    "Numerical Modelling of",
     "-Mantle convection",
 	"-Plate Subduction",
+    "Analytical Modelling",
     "Classical and Modern Physics"
   ]
 
