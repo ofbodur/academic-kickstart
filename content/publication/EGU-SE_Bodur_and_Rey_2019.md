@@ -1,6 +1,6 @@
 +++
 title = "The impact of rheological uncertainty on dynamic topography predictions - EGU Solid Earth, 2019"
-date = 2018-01-15T00:00:00
+date = 2019-12-15T00:00:00
 selected = true
 
 # List format.
